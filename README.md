@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Max
 - 👀 I’m interested in Python, Java and Matematica
 - 🌱 I’m currently learning Python and Java
 
